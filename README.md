@@ -1,2 +1,1 @@
-# aithink
-Ai Think
+# think
